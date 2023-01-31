@@ -22,7 +22,7 @@ router.post("/upload", upload.single("file"), async (req, res) => {
             data: req.file.buffer,
             contentType: req.file.mimetype
           },
-          fileName: req.body.fileName
+          // fileName: req.body.fileName
         };
         const uploadObject = new UploadSchema(imageUploadObject);
         // saving the object into the database
