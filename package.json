@@ -1,0 +1,19 @@
+{
+  "name": "images_store_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modelSchema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashKamalakannan/Images_Store_MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashKamalakannan/Images_Store_MongoDB/issues"
+  },
+  "homepage": "https://github.com/AkashKamalakannan/Images_Store_MongoDB#readme"
+}
